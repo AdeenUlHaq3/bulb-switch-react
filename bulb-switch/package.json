@@ -1,0 +1,30 @@
+{
+  "name": "bulb-switch",
+  "version": "1.0.0",
+  "description": "Turn bulb on & off using state and props",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "^1.1.5",
+    "react-toggle-button": "^2.2.0",
+    "yarn": "^1.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdeenUlHaq3/bulb-switch-react.git"
+  },
+  "author": "Adeen Ul Haq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeenUlHaq3/bulb-switch-react/issues"
+  },
+  "homepage": "https://github.com/AdeenUlHaq3/bulb-switch-react#readme"
+}
